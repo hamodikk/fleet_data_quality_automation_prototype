@@ -1,0 +1,26 @@
+source_table,issue_type,severity,exception_count
+raw.fleet_condition_assessment_raw,Mileage and odometer disagreement,Medium,760
+raw.fleet_condition_assessment_raw,Missing condition vehicle_id,High,87
+raw.fleet_condition_assessment_raw,Orphan condition vehicle_id,High,39
+raw.fleet_condition_assessment_raw,Last service date after assessment date,High,28
+raw.fuel_transactions_raw,Backward odometer reading,Medium,3476
+raw.fuel_transactions_raw,Suspicious MPG,Medium,1119
+raw.fuel_transactions_raw,Orphan fuel asset reference,High,222
+raw.fuel_transactions_raw,Missing odometer,Medium,203
+raw.fuel_transactions_raw,Missing vehicle reference,High,122
+raw.fuel_transactions_raw,Likely blank row,Low,12
+raw.maintenance_work_orders_raw,Missing vendor reference,Medium,405
+raw.maintenance_work_orders_raw,Maintenance cost validation issue,Medium,214
+raw.maintenance_work_orders_raw,Orphan equipment reference,High,95
+raw.maintenance_work_orders_raw,Missing equipment number,High,70
+raw.maintenance_work_orders_raw,Maintenance cost validation issue,High,66
+raw.maintenance_work_orders_raw,Closed date before open date,High,41
+raw.maintenance_work_orders_raw,Duplicate work order number,High,22
+raw.vehicle_master_raw,Missing VIN,Medium,16
+raw.vehicle_master_raw,Duplicate registration number,High,16
+raw.vehicle_master_raw,Duplicate VIN,High,10
+raw.vehicle_master_raw,Missing vehicle_id,High,4
+raw.vendor_master_raw,Repeated normalized vendor name,Medium,54
+raw.vendor_master_raw,Missing contact_email,Low,28
+raw.vendor_master_raw,Duplicate vendor_id,High,9
+raw.vendor_master_raw,Missing vendor_id,High,4
