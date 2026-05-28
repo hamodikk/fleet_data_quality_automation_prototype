@@ -1,0 +1,4 @@
+view_name,row_count
+clean.vw_maintenance_work_order,4022
+clean.vw_fuel_transactions,8000
+clean.vw_fleet_condition_assessments,1500
