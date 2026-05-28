@@ -1,0 +1,4 @@
+clean_record_status,record_count
+OK,375
+REVIEW_REQUIRED,30
+USABLE_WITH_WARNING,15

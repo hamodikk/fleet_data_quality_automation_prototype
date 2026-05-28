@@ -1,0 +1,11 @@
+source_fuel_type,standardized_fuel_type,record_count
+DIESEL,DIESEL,62
+Dsl,DIESEL,22
+Electric,ELECTRIC,88
+EV,ELECTRIC,43
+Gas,GASOLINE,53
+Gasoline,GASOLINE,16
+petrol,GASOLINE,15
+Unleaded,GASOLINE,15
+Hybrid,HYBRID,73
+Gas Hybrid,HYBRID,33
