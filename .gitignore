@@ -1,0 +1,18 @@
+# Large or external source files
+data/public_sources/
+
+# Local SQL Server / temp files
+*.bak
+*.tmp
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal/local notes
+.env
