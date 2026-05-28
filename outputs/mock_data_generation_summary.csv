@@ -1,0 +1,6 @@
+file_name,row_count,column_count
+vehicle_master_raw.csv,420,25
+vendor_master_raw.csv,70,16
+maintenance_work_orders_raw.csv,4022,41
+fuel_transactions_raw.csv,8012,18
+fleet_condition_assessment_raw.csv,1500,25

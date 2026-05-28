@@ -1,0 +1,71 @@
+vendor_id,vendor_name,vendor_legal_name,partner_type,service_category,preferred_vendor_flag,active_flag,address_line_1,city,state,zip_code,phone_number,contact_email,payment_terms,source_system,last_updated_date
+V2001,Precision Hydraulics,Precision Hydraulics LLC,Maintenance Vendor,Tires,No,Active,9674 Oak Blvd,Indianapolis,IN,48853,,service1vendor-example.com,Net 45,VendorHub,2024-06-30
+V2002,Quick Fuel Partners,Quick Fuel Partners Inc.,repair,EV Charging,,FALSE,9339 Lake Rd,Milwaukee,MI,56681,,service2vendor-example.com,Net 30,FuelCardPortal,2024-11-20
+V2003,Lakeshore Automotive,Lakeshore Automotive Company,Parts Supplier,EV Charging,TRUE,N,2128 Lake St,Gary,IL,60439,,,,VendorHub,2025-01-02
+V2004,FleetPro Service Center,FleetPro Service Center,repair,Maintenance,Yes,TRUE,5727 Main St,St. Louis,WI,60129,555-INVALID,,Due on Receipt,AP_System,2025-12-15
+V2005,RoadReady Repairs,RoadReady Repairs LLC,Repair Shop,Tires,No,TRUE,663 Lake Ave,St. Louis,WI,48674,555-INVALID,service5vendor-example.com,Net 45,FuelCardPortal,2026-03-02
+V2006,City Wide Tire and Brake,Citywide Tire & Brake Company,Repair Shop,Tires,TRUE,Inactive,8187 Industrial Blvd,Indianapolis,MO,49423,555-INVALID,service6vendor-example.com,Net 30,VendorHub,2024-01-23
+V2007,Midwest Diesel Service,Midwest Diesel Service Company,Fuel,EV Charging,Yes,Y,9885 Industrial Ave,Chicago,IN,47890,(701) 240-7625,service7vendor-example.com,Net 30,AP_System,2024-08-09
+V2008,Reliable Truck Service,Reliable Truck Service Company,repair,Body Work,N,Active,7866 Commerce Blvd,Chicago,MO,60348,,,Net 30,AP_System,2025-06-25
+V2009,Joe's Automotive LLC,Joe's Auto Shop LLC,Maintenance Vendor,Body Work,N,N,2113 Industrial Rd,Indianapolis,MO,54362,(915) 200-3116,contact9@vendor-example.com,NET30,VendorHub,2025-04-01
+V2010,Quick Fuel Partners,Quick Fuel Partners,Fuel Supplier,Towing,No,TRUE,7398 Oak St,St. Louis,MI,57401,555-INVALID,,Due on Receipt,AP_System,2026-04-26
+V2006,FleetPro Service Center,FleetPro Service Center LLC,Repair Shop,Towing,No,Inactive,4825 Industrial Blvd,Milwaukee,WI,54602,555-INVALID,,,FuelCardPortal,2025-01-09
+V2012,Premier Collision Center,Premier Collision Center LLC,repair,EV Charging,FALSE,N,8402 Commerce Rd,Detroit,IN,57684,555-INVALID,service12vendor-example.com,Net 30,AP_System,2024-03-10
+V2013,Industrial Equipment Repair,Industrial Equipment Repair LLC,,Fuel,,Y,5984 Lake Rd,Milwaukee,IL,60073,,,Net 45,AP_System,2026-03-04
+V2014,BlueLine Fuel,BlueLine Fuel Company,Towing,Towing,N,Y,3200 Lake Ave,Gary,MO,53774,,service14vendor-example.com,NET30,VendorHub,2024-03-24
+V2015,GreenCharge,GreenCharge EV Supply Company,Fuel Supplier,Maintenance,FALSE,Inactive,4616 Commerce Blvd,Gary,MI,47912,555-INVALID,,NET30,VendorHub,2026-01-11
+,Quick Fuel Prtnrs,Quick Fuel Partners Inc.,Maintenance Vendor,Maintenance,N,N,8404 Industrial Blvd,St. Louis,IN,50402,,contact16@vendor-example.com,,FuelCardPortal,2025-02-06
+V2017,Partner Mobile Mechanics,Partner Mobile Mechanics,Fuel,Tires,No,N,4326 Commerce Blvd,Milwaukee,MI,47581,555-INVALID,service17vendor-example.com,NET30,VendorHub,2024-08-26
+V2020,Metro Fuel Svc,Metro Fuel Services Company,repair,Fuel,N,TRUE,9627 Commerce Blvd,Indianapolis,IL,47867,,,NET30,FuelCardPortal,2024-10-31
+V2019,Central Parts Warehouse,Central Parts Warehouse Inc.,,Parts,Yes,Active,3273 Main St,St. Louis,MO,54344,,,,AP_System,2024-04-23
+V2020,Universal Fleet Solutions,Universal Fleet Solutions,Maintenance Vendor,Towing,No,Active,9081 Lake Rd,Detroit,MO,56056,555-INVALID,service20vendor-example.com,Due on Receipt,AP_System,2025-05-24
+V2014,Precision Hydraulics,Precision Hydraulics,Fuel Supplier,Body Work,Yes,Y,3469 Lake St,Gary,IN,54283,(416) 493-4290,service21vendor-example.com,,AP_System,2025-06-21
+V2022,Precision Hydraulics,Precision Hydraulics,Fuel,Parts,N,Active,2776 Commerce Rd,Detroit,IL,46920,(344) 683-8196,service22vendor-example.com,,VendorHub,2026-04-17
+V2023,Budget Auto Care,Budget Auto Care LLC,,Tires,Yes,Active,2677 Lake Rd,Milwaukee,MO,50773,555-INVALID,service23vendor-example.com,Net 45,FuelCardPortal,2024-12-30
+V2024,Green Charge,GreenCharge EV Supply LLC,Parts Supplier,Tires,,N,6258 Commerce Rd,Indianapolis,MI,60458,555-INVALID,service24vendor-example.com,Due on Receipt,VendorHub,2024-10-16
+V2025,CITYWIDE TIRE,Citywide Tire & Brake Inc.,Repair Shop,Fuel,Yes,Active,7576 Lake St,Gary,WI,58273,(371) 376-8098,,Net 45,FuelCardPortal,2025-09-03
+V2026,Reliable Truck Service,Reliable Truck Service Company,repair,Towing,N,Inactive,3164 Oak Ave,Gary,WI,53549,(714) 500-5712,,Net 30,FuelCardPortal,2024-11-10
+V2027,QuickFuel,Quick Fuel Partners Company,Fuel,Tires,TRUE,FALSE,9909 Lake St,Indianapolis,WI,59508,(828) 542-8555,,Net 45,FuelCardPortal,2025-05-18
+V2006,Superior Body Shop,Superior Body Shop Company,Fuel Supplier,Towing,No,Y,1571 Commerce Rd,Chicago,MI,51279,,service28vendor-example.com,,VendorHub,2025-12-05
+V2029,Interstate Repair Depot,Interstate Repair Depot,Fuel Supplier,Tires,N,TRUE,8166 Industrial St,Milwaukee,IL,50043,555-INVALID,,Due on Receipt,FuelCardPortal,2025-02-19
+V2030,Industrial Equipment Repair,Industrial Equipment Repair LLC,Towing,EV Charging,TRUE,FALSE,4348 Commerce Blvd,Milwaukee,MI,53965,(547) 525-4542,service30vendor-example.com,NET30,FuelCardPortal,2025-03-18
+V2031,Universal Fleet Solutions,Universal Fleet Solutions LLC,Fuel Supplier,EV Charging,No,TRUE,1890 Commerce Ave,St. Louis,IN,46792,555-INVALID,service31vendor-example.com,,VendorHub,2025-01-28
+V2032,Reliable Truck Service,Reliable Truck Service Company,Maintenance Vendor,Body Work,Y,TRUE,5933 Oak Rd,Milwaukee,MO,47216,555-INVALID,,,VendorHub,2025-07-02
+V2033,Precision Hydraulics,Precision Hydraulics Company,Repair Shop,Maintenance,Yes,N,6711 Commerce St,Milwaukee,MI,59917,,service33vendor-example.com,Net 45,VendorHub,2024-01-17
+V2034,Premier Collision Center,Premier Collision Center Inc.,Fuel Supplier,EV Charging,Yes,TRUE,985 Industrial Blvd,Detroit,IL,57569,555-INVALID,contact34@vendor-example.com,Due on Receipt,AP_System,2026-04-10
+V2035,Premier Collision Center,Premier Collision Center Company,,Fuel,No,TRUE,5731 Industrial St,Detroit,WI,57396,555-INVALID,,NET30,FuelCardPortal,2024-05-29
+,Universal Fleet Solutions,Universal Fleet Solutions,Repair Shop,Body Work,,Inactive,2293 Industrial Ave,Chicago,IN,60337,(442) 731-7026,service36vendor-example.com,Net 30,FuelCardPortal,2025-03-10
+V2037,Central Parts Warehouse,Central Parts Warehouse LLC,Maintenance Vendor,Maintenance,TRUE,TRUE,7091 Lake Rd,Indianapolis,WI,47999,(371) 991-6687,,,FuelCardPortal,2026-04-24
+V2038,Urban Fleet Maintenance,Urban Fleet Maintenance,repair,EV Charging,No,FALSE,1307 Industrial Ave,Chicago,WI,49872,,contact38@vendor-example.com,Net 45,VendorHub,2025-11-02
+V2039,Premier Collision Center,Premier Collision Center Company,Parts Supplier,Body Work,N,N,3940 Lake Ave,Chicago,WI,47763,,service39vendor-example.com,Due on Receipt,FuelCardPortal,2025-01-01
+V2040,Quick Fuel Partners,Quick Fuel Partners,repair,Parts,N,Y,7946 Industrial St,Indianapolis,IL,52172,(429) 455-4528,service40vendor-example.com,Net 30,FuelCardPortal,2024-04-23
+V2041,Evergreen Battery Supply,Evergreen Battery Supply Company,Repair Shop,Fuel,Yes,Y,9102 Commerce St,St. Louis,MO,55967,555-INVALID,service41vendor-example.com,,AP_System,2025-08-27
+V2042,Urban Fleet Maintenance,Urban Fleet Maintenance Company,Fuel Supplier,Parts,FALSE,TRUE,860 Lake Blvd,Milwaukee,MO,56767,,,Net 30,VendorHub,2024-07-27
+,Industrial Equipment Repair,Industrial Equipment Repair,Fuel,Fuel,TRUE,N,453 Oak Blvd,St. Louis,IL,50117,555-INVALID,,,VendorHub,2025-11-01
+V2044,Green Charge,GreenCharge EV Supply,Repair Shop,Maintenance,FALSE,N,1000 Lake Rd,Detroit,IL,57249,(432) 523-9009,contact44@vendor-example.com,Due on Receipt,FuelCardPortal,2025-11-27
+V2045,Superior Body Shop,Superior Body Shop Company,Maintenance Vendor,Tires,No,Y,5083 Oak Blvd,St. Louis,WI,49685,(703) 203-5173,service45vendor-example.com,Net 30,FuelCardPortal,2025-05-09
+V2046,Atlas Heavy Truck,Atlas Heavy Truck Company,Maintenance Vendor,Fuel,TRUE,FALSE,386 Industrial Blvd,Indianapolis,WI,49656,555-INVALID,contact46@vendor-example.com,Due on Receipt,VendorHub,2024-03-22
+V2047,Precision Hydraulics,Precision Hydraulics LLC,,Towing,No,FALSE,5148 Main St,Gary,IN,54631,,service47vendor-example.com,Net 30,VendorHub,03/28/2025
+V2048,Northside Fleet Repair,Northside Fleet Repair Company,Maintenance Vendor,Body Work,No,TRUE,3896 Commerce Ave,Indianapolis,MO,60324,555-INVALID,contact48@vendor-example.com,Net 30,AP_System,2025-07-08
+V2049,Precision Hydraulics,Precision Hydraulics,,Tires,FALSE,Active,7250 Lake Blvd,Gary,WI,47803,(233) 993-1323,,,FuelCardPortal,2025-11-30
+V2050,Reliable Truck Service,Reliable Truck Service LLC,,Tires,Yes,Inactive,4475 Lake Rd,Detroit,IN,55915,,,Net 30,VendorHub,2024-09-07
+V2051,Central Parts Warehouse,Central Parts Warehouse Company,Maintenance Vendor,Body Work,N,Inactive,2529 Main St,Chicago,MO,59073,(855) 876-2198,service51vendor-example.com,Due on Receipt,FuelCardPortal,2024-01-09
+V2052,FastLane PM Services,FastLane PM Services Inc.,Fuel Supplier,Towing,Yes,Y,4795 Main St,Chicago,MO,47002,(759) 537-6049,service52vendor-example.com,NET30,FuelCardPortal,2025-03-08
+V2007,Apex Maintenance Group,Apex Maintenance Group LLC,Parts Supplier,Parts,Y,Active,5372 Oak Rd,Gary,MI,47275,555-INVALID,contact53@vendor-example.com,Net 45,VendorHub,2024-01-18
+V2054,Precision Hydraulics,Precision Hydraulics Inc.,,Tires,,N,3169 Main St,Indianapolis,WI,52929,(326) 736-1256,,Net 45,VendorHub,2024-11-01
+V2055,Allied Mechanics,Allied Mechanics,Fuel Supplier,Body Work,TRUE,N,3812 Lake Rd,Milwaukee,IN,51281,(217) 542-2701,,NET30,AP_System,2025-04-06
+V2056,Precision Hydraulics,Precision Hydraulics LLC,,Parts,FALSE,N,5830 Commerce Blvd,Chicago,IL,48065,(801) 282-2032,service56vendor-example.com,Net 45,VendorHub,2026-03-09
+V2057,City Wide Tire and Brake,Citywide Tire & Brake Inc.,Maintenance Vendor,Towing,Y,N,7864 Main St,Indianapolis,IL,59530,555-INVALID,contact57@vendor-example.com,Net 30,AP_System,2025-11-15
+V2058,North Star Garage,North Star Garage,Fuel Supplier,Parts,,FALSE,3968 Commerce Ave,Milwaukee,IN,46760,555-INVALID,,,VendorHub,2024-06-02
+V2059,Industrial Equipment Repair,Industrial Equipment Repair Inc.,Fuel Supplier,Fuel,Yes,N,8654 Oak Blvd,Milwaukee,IL,56367,(346) 480-7696,,Due on Receipt,VendorHub,2025-05-13
+V2060,Midwest Diesel Service,Midwest Diesel Service,,Tires,TRUE,TRUE,7409 Oak Ave,Gary,MI,54130,(963) 702-3528,service60vendor-example.com,,VendorHub,2026-01-07
+V2061,Apex Maintenance Group,Apex Maintenance Group Inc.,Parts Supplier,EV Charging,FALSE,N,1929 Oak Blvd,St. Louis,MO,47493,555-INVALID,contact61@vendor-example.com,,AP_System,10/02/2024
+V2062,Apex Maintenance Group,Apex Maintenance Group,Maintenance Vendor,Parts,FALSE,N,3205 Oak St,Chicago,WI,55700,,,,VendorHub,2025-03-04
+V2063,GreenCharge EV Supply,GreenCharge EV Supply,repair,Towing,TRUE,Y,3440 Main St,St. Louis,MI,49784,555-INVALID,contact63@vendor-example.com,Net 45,AP_System,2024-09-09
+,Interstate Repair Depot,Interstate Repair Depot Company,Fuel Supplier,Maintenance,FALSE,FALSE,4092 Industrial Blvd,Gary,MO,57487,555-INVALID,service64vendor-example.com,Net 30,AP_System,2025-07-29
+V2065,RoadReady Repairs,RoadReady Repairs LLC,Fuel,EV Charging,Y,Inactive,4926 Oak Blvd,Milwaukee,IL,50914,,service65vendor-example.com,Due on Receipt,AP_System,08/21/2025
+V2066,Reliable Truck Service,Reliable Truck Service,Parts Supplier,Parts,No,Active,7947 Industrial St,Detroit,IN,56917,555-INVALID,,NET30,VendorHub,2024-02-08
+V2067,Partner Mobile Mechanics,Partner Mobile Mechanics,,Parts,No,Inactive,7646 Lake St,Indianapolis,MI,49246,555-INVALID,service67vendor-example.com,NET30,FuelCardPortal,2024-01-06
+V2068,Premier Collision Center,Premier Collision Center Company,repair,Towing,FALSE,FALSE,9797 Oak St,Milwaukee,WI,60157,(706) 407-2509,,Net 45,VendorHub,2025-04-09
+V2069,FleetPro Service Center,FleetPro Service Center Company,Maintenance Vendor,Tires,Y,FALSE,2097 Commerce St,Indianapolis,MI,59834,555-INVALID,,NET30,AP_System,2024-11-01
+V2070,Premier Collision Center,Premier Collision Center,Repair Shop,Towing,N,Active,7337 Commerce Blvd,Indianapolis,IL,57677,555-INVALID,contact70@vendor-example.com,,AP_System,2025-11-26
