@@ -1,0 +1,10 @@
+vendor_id,vendor_name,contact_email,blocking_issue_summary,severity,clean_record_status
+V2007,Midwest Diesel Service,service7vendor-example.com,Duplicate vendor_id;Duplicate vendor_id,High,EXCLUDED_REVIEW_REQUIRED
+V2007,Apex Maintenance Group,contact53@vendor-example.com,Duplicate vendor_id;Duplicate vendor_id,High,EXCLUDED_REVIEW_REQUIRED
+V2006,City Wide Tire and Brake,service6vendor-example.com,Duplicate vendor_id;Duplicate vendor_id;Duplicate vendor_id,High,EXCLUDED_REVIEW_REQUIRED
+V2006,FleetPro Service Center,"",Duplicate vendor_id;Duplicate vendor_id;Duplicate vendor_id,High,EXCLUDED_REVIEW_REQUIRED
+V2006,Superior Body Shop,service28vendor-example.com,Duplicate vendor_id;Duplicate vendor_id;Duplicate vendor_id,High,EXCLUDED_REVIEW_REQUIRED
+V2020,Metro Fuel Svc,"",Duplicate vendor_id;Duplicate vendor_id,High,EXCLUDED_REVIEW_REQUIRED
+V2020,Universal Fleet Solutions,service20vendor-example.com,Duplicate vendor_id;Duplicate vendor_id,High,EXCLUDED_REVIEW_REQUIRED
+V2014,BlueLine Fuel,service14vendor-example.com,Duplicate vendor_id;Duplicate vendor_id,High,EXCLUDED_REVIEW_REQUIRED
+V2014,Precision Hydraulics,service21vendor-example.com,Duplicate vendor_id;Duplicate vendor_id,High,EXCLUDED_REVIEW_REQUIRED

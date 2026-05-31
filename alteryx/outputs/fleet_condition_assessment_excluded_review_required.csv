@@ -1,0 +1,154 @@
+assessment_id,assessment_date_raw,vehicle_id,registration_no,mileage_raw,odometer_reading_raw,last_service_date_raw,source_table,source_record_id,alteryx_processed_at,blocking_issue_summary,severity,has_review_required_exception,clean_record_status
+CA-000125,2025-05-22,"",QGL6636,283927,299697,2025-04-08,raw.fleet_condition_assessment_raw,CA-000125,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000836,2025-12-04,"",TSD2513,303107,310666,2025-10-11,raw.fleet_condition_assessment_raw,CA-000836,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000790,2025-08-31,VH-X4343,QZW1154,78123,78190,2025-08-07,raw.fleet_condition_assessment_raw,CA-000790,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000925,2024-12-23,"",MJY3388,208778,208503,2024-08-15,raw.fleet_condition_assessment_raw,CA-000925,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001333,2026-02-05,"",UQM5863,65383,71305,2025-10-03,raw.fleet_condition_assessment_raw,CA-001333,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001319,2025-06-29,VH-10418,WJS6336,34473,34487,2025-07-01,raw.fleet_condition_assessment_raw,CA-001319,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000018,2025-09-28,VH-10162,BRE6768,117181,136374,2025-11-14,raw.fleet_condition_assessment_raw,CA-000018,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000514,2025-09-19,VH-X7648,WBR0650,262259,262084,2024-08-26,raw.fleet_condition_assessment_raw,CA-000514,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000433,2024-10-12,"",DZR7393,80969,97235,2024-04-21,raw.fleet_condition_assessment_raw,CA-000433,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000147,2024-07-16,"",SXJ2374,36658,55844,2023-06-15,raw.fleet_condition_assessment_raw,CA-000147,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000847,2025-06-15,VH-10314,DPI9068,123427,135372,2025-06-27,raw.fleet_condition_assessment_raw,CA-000847,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000466,2025-04-13,"",SEC6328,19857,41657,2024-09-09,raw.fleet_condition_assessment_raw,CA-000466,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000154,2025-12-30,"",BHY6208,149992,149833,09/27/2025,raw.fleet_condition_assessment_raw,CA-000154,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001106,2025-02-02,"",BRE6768,123641,136176,2023-12-18,raw.fleet_condition_assessment_raw,CA-001106,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000057,02/23/2025,"",WNZ7258,20540,28583,03/02/2024,raw.fleet_condition_assessment_raw,CA-000057,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000852,2025-10-15,VH-10112,IOV3699,237655,257576,2025-10-26,raw.fleet_condition_assessment_raw,CA-000852,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000214,2025-10-15,VH-X2743,IBH7512,45458,68613,2025-02-05,raw.fleet_condition_assessment_raw,CA-000214,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000166,2025-03-20,"",YZD2824,77283,77538,2024-12-25,raw.fleet_condition_assessment_raw,CA-000166,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000545,2024-09-18,"",GAD8044,266787,266970,2023-11-09,raw.fleet_condition_assessment_raw,CA-000545,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001326,2025-07-15,VH-X1109,YUA5745,107007,107149,2024-11-11,raw.fleet_condition_assessment_raw,CA-001326,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000544,2025-09-08,VH-X9483,TLJ3701,160012,160111,2025-05-22,raw.fleet_condition_assessment_raw,CA-000544,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001309,2024-04-29,"",QRK4441,93025,93115,2023-04-16,raw.fleet_condition_assessment_raw,CA-001309,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000680,2026-03-26,VH-10060,YMM4816,183169,183054,2026-05-13,raw.fleet_condition_assessment_raw,CA-000680,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001163,2026-04-16,VH-X6344,ZDL8975,127945,133621,2025-06-10,raw.fleet_condition_assessment_raw,CA-001163,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000475,2024-11-05,"",NKD5416,60079,59968,2024-10-13,raw.fleet_condition_assessment_raw,CA-000475,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001316,2024-11-10,"",UWS8227,111130,116880,2024-08-18,raw.fleet_condition_assessment_raw,CA-001316,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000114,2026-04-25,"",BNS2277,42440,42535,2026-03-19,raw.fleet_condition_assessment_raw,CA-000114,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001473,2025-08-23,VH-X2344,HYZ2582,34480,46650,09/08/2024,raw.fleet_condition_assessment_raw,CA-001473,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001376,2024-05-10,"",LBG0705,165261,171889,2023-03-23,raw.fleet_condition_assessment_raw,CA-001376,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001369,2025-12-30,"",PFB1972,102539,102245,2025-02-05,raw.fleet_condition_assessment_raw,CA-001369,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000912,2024-07-04,VH-X2129,DTO9883,20997,21221,2024-04-15,raw.fleet_condition_assessment_raw,CA-000912,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000207,2025-06-02,"",CXF5413,9405,9296,2024-08-16,raw.fleet_condition_assessment_raw,CA-000207,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000833,2025-11-11,VH-X3098,RPT7293,11926,11890,2025-06-01,raw.fleet_condition_assessment_raw,CA-000833,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000867,2026-01-02,VH-10291,IGG3248,93838,105820,2026-01-05,raw.fleet_condition_assessment_raw,CA-000867,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001057,2026-02-13,VH-10178,ZGW3455,188681,188482,2026-04-03,raw.fleet_condition_assessment_raw,CA-001057,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000054,2024-03-23,VH-10298,XWM3468,85117,98354,06/16/2024,raw.fleet_condition_assessment_raw,CA-000054,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000492,2025-02-01,VH-10278,UHV7761,143679,162591,2025-02-26,raw.fleet_condition_assessment_raw,CA-000492,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001280,2024-05-23,VH-10024,IIN0190,75836,89931,2024-06-16,raw.fleet_condition_assessment_raw,CA-001280,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001354,2024-09-12,VH-10375,VPX3879,181257,187054,2024-09-15,raw.fleet_condition_assessment_raw,CA-001354,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000806,2024-11-07,"",NZR7565,43738,53485,05/08/2024,raw.fleet_condition_assessment_raw,CA-000806,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000961,2024-06-21,"",BDL9893,90288,90107,2023-05-14,raw.fleet_condition_assessment_raw,CA-000961,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001438,2025-03-10,VH-X6118,RZY1050,143572,143810,2025-02-02,raw.fleet_condition_assessment_raw,CA-001438,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001451,2025-08-28,"",WBR0650,256650,256569,2025-04-04,raw.fleet_condition_assessment_raw,CA-001451,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000522,2025-06-19,VH-X1521,QEQ7111,4674,9898,2025-01-23,raw.fleet_condition_assessment_raw,CA-000522,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001124,2024-08-04,"",LHN8465,157432,172221,2024-02-22,raw.fleet_condition_assessment_raw,CA-001124,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000442,2025-02-10,"",WSZ1156,238121,237854,2024-10-14,raw.fleet_condition_assessment_raw,CA-000442,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001183,2024-01-04,VH-X1874,LBQ5945,80438,80595,2023-08-19,raw.fleet_condition_assessment_raw,CA-001183,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001335,2024-04-30,VH-X4206,XYD8116,76294,76426,2024-01-12,raw.fleet_condition_assessment_raw,CA-001335,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001023,2026-03-08,"",XJC4753,158025,158139,2025-05-18,raw.fleet_condition_assessment_raw,CA-001023,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001249,2025-12-26,"",HUV3554,235879,246261,2025-07-03,raw.fleet_condition_assessment_raw,CA-001249,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001030,2024-07-30,"",EYS5724,34696,34577,2023-12-29,raw.fleet_condition_assessment_raw,CA-001030,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001056,2025-09-05,"",HLL5436,138979,139163,2024-10-03,raw.fleet_condition_assessment_raw,CA-001056,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001047,2024-11-01,"",WBR0650,253257,268169,2024-08-27,raw.fleet_condition_assessment_raw,CA-001047,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001185,2025-05-07,"",NKD5416,65205,65487,2024-05-13,raw.fleet_condition_assessment_raw,CA-001185,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000118,2026-04-30,VH-10348,LHS3364,7443,22910,2026-06-27,raw.fleet_condition_assessment_raw,CA-000118,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000344,2025-02-26,"",PFB1972,99044,109035,2024-08-09,raw.fleet_condition_assessment_raw,CA-000344,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001018,2024-11-17,VH-X4391,KHV1567,99698,99985,2024-02-17,raw.fleet_condition_assessment_raw,CA-001018,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001133,03/08/2026,"",VFZ1606,96480,96400,2026-02-26,raw.fleet_condition_assessment_raw,CA-001133,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001241,2025-08-26,VH-10159,TVS3206,136838,136935,2025-09-27,raw.fleet_condition_assessment_raw,CA-001241,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000097,2024-05-02,"",TVI7781,77113,76814,2024-04-26,raw.fleet_condition_assessment_raw,CA-000097,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001217,2026-02-24,VH-X4158,IQM5306,37403,37126,2025-03-02,raw.fleet_condition_assessment_raw,CA-001217,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000488,2025-10-31,"",XDO8938,36685,59633,2025-01-15,raw.fleet_condition_assessment_raw,CA-000488,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000930,2025-08-15,"",FUG7006,188190,210133,2024-09-02,raw.fleet_condition_assessment_raw,CA-000930,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001464,2024-09-13,VH-10380,RKD7196,191561,191310,2024-10-16,raw.fleet_condition_assessment_raw,CA-001464,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000092,2025-12-17,VH-10379,OOI3784,55703,55673,2025-12-23,raw.fleet_condition_assessment_raw,CA-000092,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000176,2026-02-09,VH-X6728,FUG7006,184510,184534,2025-07-09,raw.fleet_condition_assessment_raw,CA-000176,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001093,2025-10-09,"",WNZ7258,14222,14241,11/07/2024,raw.fleet_condition_assessment_raw,CA-001093,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001436,2024-08-21,VH-X8721,IGG3248,94757,94638,2024-02-09,raw.fleet_condition_assessment_raw,CA-001436,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000219,2024-07-23,"",LYU4876,181635,181810,2023-12-09,raw.fleet_condition_assessment_raw,CA-000219,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000371,2025-07-08,"",BNP9893,96834,97073,2024-11-06,raw.fleet_condition_assessment_raw,CA-000371,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001382,02/20/2025,VH-X6954,FUT2003,60958,60763,2024-10-16,raw.fleet_condition_assessment_raw,CA-001382,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001191,2024-10-16,"",PKU3747,110359,110498,2024-01-20,raw.fleet_condition_assessment_raw,CA-001191,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000380,2026-01-26,"",WYW7755,8683,25893,2025-02-16,raw.fleet_condition_assessment_raw,CA-000380,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000010,2025-08-24,"",NJE2207,54919,70996,2025-01-16,raw.fleet_condition_assessment_raw,CA-000010,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001432,2024-08-23,VH-X5473,CXF5413,12475,12690,2024-07-03,raw.fleet_condition_assessment_raw,CA-001432,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000667,2024-10-17,"",BKN4877,118950,118946,2024-08-29,raw.fleet_condition_assessment_raw,CA-000667,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000956,2025-11-13,VH-10237,JXH0864,64462,72395,2026-01-09,raw.fleet_condition_assessment_raw,CA-000956,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001061,08/02/2025,VH-X8213,JLB8055,64244,64358,2024-09-02,raw.fleet_condition_assessment_raw,CA-001061,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000675,2025-11-28,"",FGM5392,43042,42961,2025-04-11,raw.fleet_condition_assessment_raw,CA-000675,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000783,2025-05-01,"",BNS2277,45777,45627,2024-07-22,raw.fleet_condition_assessment_raw,CA-000783,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000768,2025-05-17,"",DRT1992,87032,111020,2025-04-10,raw.fleet_condition_assessment_raw,CA-000768,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000297,2024-06-03,VH-X7585,WDG2114,8277,8417,2023-10-14,raw.fleet_condition_assessment_raw,CA-000297,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000571,2025-01-25,"",LSI2474,133709,133682,2024-03-11,raw.fleet_condition_assessment_raw,CA-000571,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001390,2025-03-24,VH-X1810,XMV2538,4242,4323,2024-09-10,raw.fleet_condition_assessment_raw,CA-001390,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001222,2024-12-21,VH-10012,CUE3923,108209,117573,2025-03-03,raw.fleet_condition_assessment_raw,CA-001222,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001049,2025-01-17,"",ZSP8512,216279,216345,2024-08-20,raw.fleet_condition_assessment_raw,CA-001049,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000883,2024-04-09,"",JIX1955,231254,243528,2023-12-10,raw.fleet_condition_assessment_raw,CA-000883,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000021,2025-09-13,"",NSE2461,62063,62231,2024-12-17,raw.fleet_condition_assessment_raw,CA-000021,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001285,2026-01-27,"",ACN0996,102417,102700,2025-12-19,raw.fleet_condition_assessment_raw,CA-001285,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000188,2026-04-14,"",WNZ7258,13477,24416,2026-04-11,raw.fleet_condition_assessment_raw,CA-000188,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001198,2025-06-12,VH-X5064,PQP6278,132255,149529,2024-05-13,raw.fleet_condition_assessment_raw,CA-001198,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000068,2025-12-30,"",BNS2277,43177,68128,2025-11-11,raw.fleet_condition_assessment_raw,CA-000068,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000612,2024-10-06,VH-10237,JXH0864,63018,63162,2024-12-09,raw.fleet_condition_assessment_raw,CA-000612,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001114,2025-07-09,VH-X9106,TSV3645,24194,46243,2024-11-26,raw.fleet_condition_assessment_raw,CA-001114,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000842,2025-07-15,"",QNL7195,138278,160395,2025-07-12,raw.fleet_condition_assessment_raw,CA-000842,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000687,2025-10-02,"",VZK4595,126862,143484,2025-07-04,raw.fleet_condition_assessment_raw,CA-000687,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000737,2024-07-04,"",NCW3340,42189,50140,2024-03-30,raw.fleet_condition_assessment_raw,CA-000737,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000081,2024-05-04,"",EFK0811,124924,124864,2024-03-29,raw.fleet_condition_assessment_raw,CA-000081,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001052,2024-12-30,"",DSZ9993,162154,179814,2024-08-24,raw.fleet_condition_assessment_raw,CA-001052,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001279,2025-09-13,VH-X6874,XWM3468,87407,109559,2025-01-31,raw.fleet_condition_assessment_raw,CA-001279,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000862,2025-02-15,"",IJK4151,126061,140410,2024-06-15,raw.fleet_condition_assessment_raw,CA-000862,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000947,2025-11-19,VH-X9638,ZWO9726,93644,93891,2025-12-27,raw.fleet_condition_assessment_raw,CA-000947,2026-05-29 14:00:10,Orphan condition vehicle_id;Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000691,01/30/2025,"",EYS5724,36258,36273,2024-11-12,raw.fleet_condition_assessment_raw,CA-000691,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001172,2024-05-08,VH-10012,CUE3923,115286,115110,2024-06-30,raw.fleet_condition_assessment_raw,CA-001172,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000919,2026-04-11,"",AMN9740,138793,139058,2025-04-05,raw.fleet_condition_assessment_raw,CA-000919,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000071,2024-07-07,"",CFM2646,256008,256143,02/28/2024,raw.fleet_condition_assessment_raw,CA-000071,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000473,2025-04-05,VH-X2411,AXN5145,56038,65911,05/27/2024,raw.fleet_condition_assessment_raw,CA-000473,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000024,2025-07-19,VH-X9532,RPV1230,88219,88451,2024-09-12,raw.fleet_condition_assessment_raw,CA-000024,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000132,2025-03-16,"",HJB0054,128732,135550,2025-02-10,raw.fleet_condition_assessment_raw,CA-000132,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001328,2024-02-04,"",ZQW4712,189624,198927,2023-01-08,raw.fleet_condition_assessment_raw,CA-001328,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001348,2025-03-24,"",BNS2277,45943,46089,2024-11-15,raw.fleet_condition_assessment_raw,CA-001348,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001272,2025-10-26,"",TMR3233,145134,145315,2025-07-02,raw.fleet_condition_assessment_raw,CA-001272,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000410,03/22/2024,"",CUE3923,109817,118101,2023-12-02,raw.fleet_condition_assessment_raw,CA-000410,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000274,2025-09-25,"",MME1126,75659,75705,2025-08-14,raw.fleet_condition_assessment_raw,CA-000274,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001313,2025-09-27,VH-10133,YUB6116,262852,281817,2025-09-29,raw.fleet_condition_assessment_raw,CA-001313,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000107,2024-12-01,"",STH0365,106631,106792,2024-01-21,raw.fleet_condition_assessment_raw,CA-000107,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000434,2025-03-13,"",CFW1370,72487,77636,2024-11-18,raw.fleet_condition_assessment_raw,CA-000434,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000716,2025-05-26,"",YPP2449,61736,73995,2025-03-19,raw.fleet_condition_assessment_raw,CA-000716,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001164,02/15/2025,"",HLL5436,134538,144830,2024-01-30,raw.fleet_condition_assessment_raw,CA-001164,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000467,2025-11-20,"",WFT3459,135385,135111,2024-10-02,raw.fleet_condition_assessment_raw,CA-000467,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000414,2024-07-19,"",TMC0788,51163,73172,2024-01-14,raw.fleet_condition_assessment_raw,CA-000414,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000430,2024-11-02,VH-X2247,MQX3601,98095,97930,2024-10-07,raw.fleet_condition_assessment_raw,CA-000430,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000828,2024-01-16,"",WBR0650,253355,264301,2022-11-27,raw.fleet_condition_assessment_raw,CA-000828,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001122,2024-12-31,"",QZY4317,139658,139629,2023-12-27,raw.fleet_condition_assessment_raw,CA-001122,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000791,2024-10-21,"",TQF0063,28171,43418,2024-03-17,raw.fleet_condition_assessment_raw,CA-000791,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000657,2025-01-04,"",OAF5532,183281,183239,2024-11-23,raw.fleet_condition_assessment_raw,CA-000657,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000611,2024-09-23,VH-10386,YMM4816,93179,115866,2024-10-18,raw.fleet_condition_assessment_raw,CA-000611,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000729,2024-11-23,VH-10068,UTA7857,48573,48366,2024-12-04,raw.fleet_condition_assessment_raw,CA-000729,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000085,2024-08-21,"",JEU2838,39388,60361,08/06/2023,raw.fleet_condition_assessment_raw,CA-000085,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001037,2025-09-05,"",TLJ3701,163516,184332,01/16/2025,raw.fleet_condition_assessment_raw,CA-001037,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000182,2024-10-21,"",WNZ7258,17497,36075,2024-04-03,raw.fleet_condition_assessment_raw,CA-000182,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001406,2024-01-09,VH-X2996,BZM2610,68390,76986,2023-07-06,raw.fleet_condition_assessment_raw,CA-001406,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000306,05/18/2024,"",GQO7666,67875,91905,2023-05-31,raw.fleet_condition_assessment_raw,CA-000306,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000816,2026-03-14,"",LGX2413,123161,134498,2025-07-29,raw.fleet_condition_assessment_raw,CA-000816,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000506,2025-08-31,VH-X1610,IGG3248,94529,94714,2024-10-26,raw.fleet_condition_assessment_raw,CA-000506,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000112,2024-04-28,VH-X1669,AOH6816,19525,19728,2024-01-08,raw.fleet_condition_assessment_raw,CA-000112,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001149,2026-02-06,VH-X7961,DSZ9993,161918,161619,2025-05-19,raw.fleet_condition_assessment_raw,CA-001149,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000594,2025-11-01,VH-10283,AAR2793,221916,237076,2025-12-22,raw.fleet_condition_assessment_raw,CA-000594,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000838,2024-07-20,VH-X1212,MBR9431,190736,190952,2023-12-13,raw.fleet_condition_assessment_raw,CA-000838,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000745,2026-04-05,"",QJD5094,194315,194499,01/01/2026,raw.fleet_condition_assessment_raw,CA-000745,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000710,2024-04-12,"",WWZ4336,25126,24995,2024-02-22,raw.fleet_condition_assessment_raw,CA-000710,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000458,01/24/2025,VH-10203,PSW0622,151126,161491,2025-02-03,raw.fleet_condition_assessment_raw,CA-000458,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001109,2026-01-01,VH-10294,CFW1370,72457,72579,2026-01-20,raw.fleet_condition_assessment_raw,CA-001109,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000396,2025-01-05,VH-10288,UDW1838,187537,202987,2025-01-12,raw.fleet_condition_assessment_raw,CA-000396,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000203,2024-03-06,VH-X1645,TSV3645,26400,49634,2023-05-17,raw.fleet_condition_assessment_raw,CA-000203,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001007,2025-10-07,"",JLB8055,59653,70752,2025-01-17,raw.fleet_condition_assessment_raw,CA-001007,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000913,2024-01-25,VH-X7923,MHT0800,183926,183907,2022-12-20,raw.fleet_condition_assessment_raw,CA-000913,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000871,2025-07-11,VH-X4329,SGK9378,80962,91002,2024-09-16,raw.fleet_condition_assessment_raw,CA-000871,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000480,2025-08-10,"",PFB1972,100615,100547,2025-04-01,raw.fleet_condition_assessment_raw,CA-000480,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001221,2026-04-21,VH-X2825,JIW8343,38320,38111,2025-10-31,raw.fleet_condition_assessment_raw,CA-001221,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-000165,2024-01-20,VH-10125,XYD8116,97243,121153,01/26/2024,raw.fleet_condition_assessment_raw,CA-000165,2026-05-29 14:00:10,Last service date after assessment date,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001250,2024-01-14,"",JJM2872,56285,69857,01/05/2023,raw.fleet_condition_assessment_raw,CA-001250,2026-05-29 14:00:10,Missing condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
+CA-001495,2025-10-24,VH-X9290,VVY1478,46746,46446,2025-08-24,raw.fleet_condition_assessment_raw,CA-001495,2026-05-29 14:00:10,Orphan condition vehicle_id,High,1,EXCLUDED_REVIEW_REQUIRED
