@@ -65,20 +65,24 @@ Tableau Data Quality and Fleet Operations Dashboards
 * Raw data validation and profiling scripts
 * Data quality exception creation script
 * Clean SQL views for master and transaction table
+
 **Alteryx**
 * Exception generation workflow
 * Clean output workflow
 * Validation outputs comparing Alteryx results against SQL logic
 * Clean CSV outputs
 * Review-required exception outputs
+
 **Power Platform**
 * SharePoint List: Fleet Data Quality Review Queue
 * Power Apps review app for exception review and status updates
 * Power Automate flow for high-severity exception notifications
 * Power Automate flow for stamping resolved exceptions with resolved_at
+
 **Tableau**
 * Data Quality Command Center
 * Fleet Operations Snapshot
+
 **Documentation**
 * Project charter
 * Data sources
