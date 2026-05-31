@@ -1,0 +1,26 @@
+UNIQUE_WORK_ORDER_NO,EQ_EQUIP_NO,JOB_TYPE,WORK_ORDER_STATUS,vendor_name,TOTAL_COST
+WO-2025-000223,99758,Repair,Finished,Precision Hydraulics,3659.41
+WO-2024-000234,99326,REPAIR,Open,FleetPro Service Center,3194.22
+WO-2025-000271,99372,Repair,Finished,Midwest Diesel Service,3668.64
+WO-2025-000361,99114,Preventative Maintenance,In Progress,Urban Fleet Maintenance,3061.18
+WO-2026-000410,99536,Preventative Maintenance,In Progress,Evergreen Battery Supply,3735.27
+WO-2025-000424,99830,PM,Cancelled,Universal Fleet Solutions,3084.45
+WO-2026-000485,99779,Corrective,Finished,FleetPro Service Center,2415.37
+WO-2026-000530,99633,Corrective,Open,Universal Fleet Solutions,1083.06
+WO-2026-000614,99901,preventive maint,CLOSED,GreenCharge EV Supply,3246.37
+WO-2026-000665,99828,Preventative Maintenance,Cancelled,Precision Hydraulics,3870.99
+WO-2025-000667,99853,PM,Open,FleetPro Service Center,403.90
+WO-2024-000669,99906,Corrective,Finished,Green Charge,1314.21
+WO-2025-000688,99747,Corrective,Open,Green Charge,2590.91
+WO-2024-000723,99162,REPAIR,Cancelled,Premier Collision Center,2971.84
+WO-2026-000725,99874,REPAIR,Cancelled,Precision Hydraulics,4933.03
+WO-2026-000770,99798,PM,Closed,FastLane PM Services,2502.24
+WO-2025-000775,99341,preventive maint,CLOSED,Premier Collision Center,5605.07
+WO-2024-000798,99861,Preventative Maintenance,CLOSED,Central Parts Warehouse,2489.64
+WO-2025-000844,99159,Corrective,Closed,Reliable Truck Service,"$3,400.68"
+WO-2024-000870,99424,REPAIR,In Progress,Northside Fleet Repair,"$3,536.47"
+WO-2024-000888,99306,REPAIR,In Progress,Interstate Repair Depot,"$2,039.64"
+WO-2026-000965,99714,PM,Open,Green Charge,1657.90
+WO-2025-000994,99831,Preventative Maintenance,Finished,Reliable Truck Service,2971.52
+WO-2025-001000,99414,Corrective,In Progress,Midwest Diesel Service,4690.74
+WO-2025-001123,99880,PM,Finished,Green Charge,3623.75

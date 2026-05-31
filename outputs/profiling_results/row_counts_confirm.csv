@@ -1,0 +1,6 @@
+table_name,row_count
+vehicle_master_raw,420
+vendor_master_raw,70
+maintenance_work_orders_raw,4022
+fuel_transactions_raw,8012
+fleet_condition_assessment_raw,1500

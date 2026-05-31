@@ -1,0 +1,2 @@
+total_rows,missing_asset_no,missing_vehicle_id,missing_vin,missing_registration_no,distinct_asset_no,distinct_vehicle_id,distinct_vin,distinct_registration_no
+420,0,4,16,0,420,416,399,412

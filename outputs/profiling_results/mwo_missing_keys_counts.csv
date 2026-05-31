@@ -1,0 +1,2 @@
+total_rows,missing_unique_work_order_no,missing_equipment_no,missing_vendor_id,missing_vendor_name,distinct_work_orders,distinct_equipment_numbers
+4022,0,70,335,76,4000,509
