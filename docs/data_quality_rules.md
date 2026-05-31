@@ -2,7 +2,7 @@
 
 **Project:** Data Integrity Automation Prototype  
 **Document Type:** Data quality rulebook  
-**Status:** Document in Progress
+**Status:** Prototype Version
 **Purpose:** Define how raw fleet-related data should be evaluated before it is trusted for reporting, dashboarding, automation, or exception review.
 
 ---
@@ -80,7 +80,7 @@ Examples:
 
 ### 2.5 Retain Records, But Protect Metrics
 
-A record can remain in the clean layer for traceability while still being excluded from a specific metric.
+Depending on severity and use case, a record may either remain in the clean layer with warning flags or be excluded from specific clean outputs while still being preserved in exception logs.
 
 Examples:
 
@@ -149,6 +149,8 @@ Examples:
 
 - Duplicate VINs
 - Duplicate registration numbers
+- Duplicate vendor IDs
+- Duplicate work order numbers
 
 **Handling:**
 
@@ -210,6 +212,9 @@ Examples:
 
 - Cost fields
 - Labor hours
+- MPG
+- Odometer readings
+- Mileage values
 
 **Handling:**
 
@@ -277,20 +282,20 @@ Examples:
 
 Clean records should receive one of the following statuses.
 
-| Status | Meaning |
+| Resolution Path | Meaning |
 |---|---|
-| `OK` | Record is usable for intended reporting. |
-| `USABLE_WITH_WARNING` | Record is usable for some analysis but contains a known issue or caution flag. |
-| `REVIEW_REQUIRED` | Record has an issue that requires analyst or business review before full trust. |
-| `EXCLUDE` | Record should not enter the clean reporting layer, usually because it is blank or structurally unusable. |
+| `AUTO_CLEAN` | The issue can be safely standardized or corrected using documented transformation logic. The record can remain available for intended reporting. |
+| `MONITOR_ONLY` | The record is usable for some analysis but contains a known issue or caution flag that should remain visible. |
+| `REVIEW_REQUIRED` | The record has an issue that requires analyst or business review before full trust. |
+| `AUTO_EXCLUDE` | The record should not enter the clean reporting layer, usually because it is blank, structurally unusable, or not meaningful for analysis. |
 
-A record may be retained in the clean layer even if it is not valid for every metric.
+In the Alteryx implementation, records with `REVIEW_REQUIRED` issues are separated into review-required outputs and loaded into the SharePoint review queue. Clean outputs only include records that are usable for reporting after safe standardization and blocking exception checks.
 
 ---
 
 ## 7. Exception Handling
 
-Records should be inserted into `dq.data_quality_exceptions` when they fail rules that require visibility, review, or metric protection.
+Records should be inserted into `dq.data_quality_exceptions` during the SQL prototype phase or written to an Alteryx exception output such as `all_data_quality_exceptions_alteryx.csv` during the Alteryx workflow phase.
 
 Typical exception categories:
 

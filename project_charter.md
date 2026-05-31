@@ -1,4 +1,4 @@
-# Project Charter: Data Integrity Automation Prototype
+# Project Charter: Fleet Data Quality Automation Prototype
 
 ## Project Name
 
@@ -23,13 +23,17 @@ The goal of this prototype is to build a small, reproducible workflow that profi
 This prototype will include:
 
 - Mock fleet management data
-- Data profiling
-- Data cleaning
 - SQL database storage
+- SQL data profiling
+- SQL validation and rule discovery
+- Alteryx exception generation workflows
+- Alteryx validation against SQL results
+- Alteryx cleanup for safe standardization
 - Data quality exception tracking
-- Basic automation using Power Automate
-- A simple review interface using Power Apps
-- A dashboard using Tableau
+- Exception review queue creation
+- Review workflow automation using Power Automate
+- Exception review interface using Power Apps
+- Data quality and operations dashboards using Tableau
 - Reproducible documentation
 
 ## Out of Scope
@@ -40,11 +44,11 @@ This project will not use real company data. It will not claim production-level 
 
 The project will be considered successful if it can:
 
-- Identify common data quality issues
-- Clean and standardize messy data
-- Document assumptions and business rules
-- Store clean data in SQL
-- Produce useful business insights
-- Create a basic exception-review process
-- Present results in a dashboard
-- Be reproduced using clear documentation
+- Identify common data quality issues in mock fleet-related data
+- Preserve raw source data while creating standardized clean outputs
+- Document assumptions, business rules, and data quality decisions
+- Use SQL Server for raw data storage, profiling, and rule discovery
+- Use Alteryx to recreate exception logic, validate results, and generate clean outputs
+- Create a basic exception-review process using SharePoint, Power Apps, and Power Automate
+- Present data quality health and clean fleet operations metrics in Tableau
+- Be reproduced or reviewed using clear documentation, screenshots, scripts, and exported artifacts

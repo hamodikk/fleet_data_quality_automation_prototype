@@ -39,4 +39,4 @@ This project is intended to demonstrate initiative, fast learning, analytical th
 
 ## Current Status
 
-Clean tables of the raw tables have been generated based on `data_quality_rules` using `07_create_clean_transaction_views.sql`.
+Clean tables of the raw tables have been generated based on `data_quality_rules` using `07_create_clean_transaction_views.sql`. With baseline SQL approach created, Alteryx -> Power Automate -> Power Apps pipeline work will start.

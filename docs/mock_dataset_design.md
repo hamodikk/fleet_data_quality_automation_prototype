@@ -1,6 +1,8 @@
 # Mock Dataset Design
 
-This file documents the technical design of the generated mock raw datasets. It is meant to support reproducibility and data lineage. Personal reflections and research notes should remain in the separate project logs.
+This file documents the technical design of the generated mock raw datasets. It is meant to support reproducibility and data lineage. Personal reflections and research notes are stored in separate project logs.
+
+The mock datasets were generated using public fleet-related datasets as structural inspiration, but the final files are synthetic and should not be interpreted as real operational records. The generated data was intentionally designed to include realistic data quality issues so the project could test profiling, exception generation, cleanup, review workflows, and dashboarding.
 
 ## Mock raw datasets created
 
@@ -16,7 +18,7 @@ This file documents the technical design of the generated mock raw datasets. It 
 
 The data was generated with a fixed random seed: `20260524`.
 
-The generated files are intentionally messy. Raw files should not be overwritten. Any cleaned outputs should be saved separately under `data/clean/` or `data/exceptions/`.
+Raw files should not be overwritten. Cleaned outputs and exception outputs should be saved separately from raw data. In the final implementation, Alteryx-generated outputs are stored under `alteryx/outputs/`.
 
 ## Intentional issue types included
 
@@ -48,7 +50,7 @@ Some records intentionally fail these relationships to support data quality exce
 
 ## Limitations
 
-The mock datasets generated are useful for testing data quality workflows, but it is not a perfect representation of real fleet specifications. Some fields were generated using broad random categories rather than strict real-world compatibilities.
+The mock datasets are useful for testing data quality workflows, but they are not a perfect representation of real fleet specifications. Some fields were generated using broad random categories rather than strict real-world compatibilities.
 
 - Fuel type is not constrained by make/model
 - Transmission type is not constrained by make/model
