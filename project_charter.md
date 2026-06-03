@@ -2,7 +2,7 @@
 
 ## Project Name
 
-Fleet Data Integrity & Automation Prototype
+Fleet Data Quality Automation Prototype
 
 ## Background
 

@@ -10,8 +10,8 @@ from collections import Counter, defaultdict
 
 random.seed(20260524)
 
-base_dir = Path("/mnt/data/data_integrity_automation_prototype")
-mock_dir = base_dir / "data" / "mock_messy_sources"
+base_dir = Path(__file__).resolve().parents[1]
+mock_dir = base_dir / "data" / "raw" / "mock_messy_sources"
 docs_dir = base_dir / "docs"
 scripts_dir = base_dir / "scripts"
 outputs_dir = base_dir / "outputs"
